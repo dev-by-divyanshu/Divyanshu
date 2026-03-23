@@ -1,7 +1,7 @@
 Hi, I am Divyanshu Kumar 👋  
 
-🎓 B.Tech Computer Science Student at VIT Bhopal University  
+🎓 B.Tech CSE Student — VIT Bhopal University  
 📅 First Year  
+💡 Interested in learning programming and technology  
 
-💻 Passionate about learning programming, technology, and software development.  
-🚀 Looking forward to building innovative projects and improving my technical skills.
+I hope to develop strong technical skills and build useful projects during my studies.
